@@ -1,6 +1,6 @@
 # Hi there — I'm ARPIT UPADHYAY 👋
 **AI/ML Student & Frontend Developer**  
-Tanakpur, Uttarakhand, India[cite: 1]
+Tanakpur, Uttarakhand, India
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-upadhyay-aa47372b0)
 
@@ -9,8 +9,7 @@ Passionate developer focused on building intelligent web applications and modern
 ---
 
 ## 🔭 Currently
-- Working as an **Artificial Intelligence Intern** at **CodeAlpha**[cite: 1].
-- Preparing for the **GATE DA 2026** examination[cite: 1].
+- Working as an **Artificial Intelligence 
 - Building frontend experiences that integrate generative AI models[cite: 1].
 
 ## 💡 What I do
